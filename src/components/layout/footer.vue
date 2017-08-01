@@ -1,0 +1,6 @@
+<template>
+<!-- 第一公共样式底部 -->
+	<footer id="footer" style="">
+		<div id="btn-top-shortcut" style="opacity: 0; pointer-events: none;"><b></b><i class="icon icon-angle-up"></i></div><a id="bottom-download" href="http://m.acfun.cn/app/download">还有啥？戳我去客户端看看(・ω・)ノ</a><ul class="link"><!--    li.app--><!--        a(href="#{footer[i][1]}", target="_blank") #{footer[i][0]}--><li><a href="http://www.acfun.cn/info/#page=about" target="_blank">关于</a></li><!--    li.app--><!--        a(href="#{footer[i][1]}", target="_blank") #{footer[i][0]}--><li><a href="http://www.acfun.cn/feedback.aspx" target="_blank">反馈</a></li><!--    li.app--><!--        a(href="#{footer[i][1]}", target="_blank") #{footer[i][0]}--><li><a href="http://www.acfun.cn/map/" target="_blank">地图</a></li><!--    li.app--><!--        a(href="#{footer[i][1]}", target="_blank") #{footer[i][0]}--><li><a href="http://www.acfun.cn/info/#page=help" target="_blank">帮助</a></li><!--    li.app--><!--        a(href="#{footer[i][1]}", target="_blank") #{footer[i][0]}--><li><a href="/othapppro/" target="_blank">更多应用</a></li></ul><p class="cr">Copyright © 2007-2017 acfun.cn</p>
+	</footer>
+</template>
